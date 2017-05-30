@@ -1,6 +1,4 @@
 # hello-world
-Just a 1st repository
-
 Hi,
 
 Welcome to GitHub! 
